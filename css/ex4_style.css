@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(138, 138, 138);
+}
+
+#portada{
+    height:35vh;
+    background-color: gray;
+}
+
+.imagen{
+    height: 150px;
+    width: 200px;
+    background-color: lightgray;
+}

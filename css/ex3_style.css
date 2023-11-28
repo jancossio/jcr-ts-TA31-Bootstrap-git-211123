@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+
+.icon{
+    height: 30px;
+    width: 30px;
+    color:white;
+    margin-left: 15px;
+}
+
+.top-navbar{
+    height: 30px;
+}

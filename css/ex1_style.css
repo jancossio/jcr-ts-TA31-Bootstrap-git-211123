@@ -1,0 +1,29 @@
+body{
+    background-image: url("../img/background_login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login{
+    background-color: aquamarine;
+    color: black;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-color: white;
+    margin:auto;
+}
+
+.row {
+    width: 500px;
+}
+form {
+    background-color: lightgrey;
+}
+
+#titulo {
+    color: white;
+}
+
