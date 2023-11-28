@@ -1,7 +1,5 @@
 # jcr-ts-TA31-Bootstrap-git-211123
 
-https://jancossio.github.io/jcr-ts-TA31-Bootstrap-git-211123/
-
 ##Enlaces:
 
 1. [Ejercicio 1]( https://jancossio.github.io/jcr-ts-TA31-Bootstrap-git-211123/pages/ex1_index.html)
