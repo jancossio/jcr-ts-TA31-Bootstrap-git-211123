@@ -3,7 +3,14 @@
     margin-left: 80px;
 }
 
+.subtitle{
+    color: gray;
+}
+
 .top-menu{
-    margin-left: 155px;
+    margin-left: 150px;
+}
+
+.top-menu li a{
     color:white;
 }

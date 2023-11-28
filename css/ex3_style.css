@@ -2,6 +2,10 @@ body{
     background-color: lightgray;
 }
 
+.container{
+    border-top: 40px;
+}
+
 .icon{
     height: 30px;
     width: 30px;
@@ -11,4 +15,15 @@ body{
 
 .top-navbar{
     height: 30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.bottom-navbar{
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.bottom-navbar li a{
+    color:white;
 }
